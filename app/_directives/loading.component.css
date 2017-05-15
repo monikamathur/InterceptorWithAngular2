@@ -1,0 +1,10 @@
+#loginDiv {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.74);
+    height: 100%;
+    text-align: center;
+    z-index: 1000;
+}
